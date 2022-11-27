@@ -1,0 +1,24 @@
+body {
+  background-image: url(/assets/style3.jpg);
+}
+
+h1 {
+  color: White;
+}
+h2 {
+  color: white;
+}
+h3 {
+  color: #64b5fe;
+  font-family: "Rubik Microbe", cursive;
+}
+p {
+  color: white;
+}
+a {
+  color: #64b5fe;
+  text-decoration: none;
+}
+footer {
+  color: #64b5fe;
+}
